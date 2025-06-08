@@ -34,7 +34,7 @@ https://webapp-sabor-caseiro.azurewebsites.net
 ```bash
 ├── .github                     # GitHub Actions for CI/CD
 │   ├── workflows               # Contains workflow definitions
-│   └── deploy.yml              # Workflow file that automates the deployment process
+│       └── deploy.yml          # Workflow file that automates the deployment process
 ├── public                      # Static assets served by the web application
 │   ├── css                     # Stylesheets (CSS)
 │   ├── img                     # Image assets
