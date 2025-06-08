@@ -33,12 +33,19 @@ https://webapp-sabor-caseiro.azurewebsites.net
 ## 📁 Project Structure
 Falta algumas coisas ainda(Organizar futuramente🦊)
 ```bash
+├── .github                     # GitHub Actions for CI/CD
+│    ├── workflows              # Infrastructure using workflows
+│    └── deploy.yml             # Deploy state file
+├── public                      # 
+│    ├── css                    #
+│    ├── img                    #
+│    ├── script                 #
+│    └── index.html             #
 ├── app.js                      # Express server
 ├── package.json                # Dependencies
 ├── Staging/                    # Infrastructure using Terraform
 │   ├── main.tf                 # Azure infrastructure definition
 │   └── terraform.tfstate       # Terraform state file
-├── .github/workflows/          # GitHub Actions for CI/CD
 ├── README.md                   # Project documentation
 ```
 
