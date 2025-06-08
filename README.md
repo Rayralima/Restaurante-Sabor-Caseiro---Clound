@@ -184,9 +184,9 @@ git commit -m "feat: add new orders endpoint"
 
 ## 📞 Contact
 Em Desenvolvimento(🦊)
-- 👤 Developer: ...
+- 👤 Developer: Rayra
 - 📧 Email: your-email@example.com  
-- 🌐 GitHub: [github.com/your-user](https://github.com/your-user)
+- 🌐 GitHub: [github.com/Rayralima](https://github.com/Rayralima)
 
 ---
 
