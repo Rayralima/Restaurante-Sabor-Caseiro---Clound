@@ -189,7 +189,6 @@ git commit -m "feat: add new orders endpoint"
 ---
 
 ## 📞 Contact
-Em Desenvolvimento(🦊)
 - 👤 Developer: Rayra Lima
 - 📧 Email: rayrasilvafiction@gmail.com  
 - 🌐 GitHub: https://github.com/Rayralima
