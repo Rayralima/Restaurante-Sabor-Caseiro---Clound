@@ -31,16 +31,15 @@ https://webapp-sabor-caseiro.azurewebsites.net
 ---
 
 ## 📁 Project Structure
-Falta algumas coisas ainda(Organizar futuramente🦊)
 ```bash
 ├── .github                     # GitHub Actions for CI/CD
-│    ├── workflows              # Infrastructure using workflows
-│    └── deploy.yml             # Deploy state file
-├── public                      # 
-│    ├── css                    #
-│    ├── img                    #
-│    ├── script                 #
-│    └── index.html             #
+│   ├── workflows               # Contains workflow definitions
+│   └── deploy.yml              # Workflow file that automates the deployment process
+├── public                      # Static assets served by the web application
+│   ├── css                     # Stylesheets (CSS)
+│   ├── img                     # Image assets
+│   ├── script                  # Front-end JavaScript files
+│   └── index.html              # Main HTML file for the web interface
 ├── app.js                      # Express server
 ├── package.json                # Dependencies
 ├── Staging/                    # Infrastructure using Terraform
