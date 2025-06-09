@@ -5,7 +5,7 @@
 **Sabor Caseiro Restaurant** is a Node.js application with cloud infrastructure provisioned via Terraform (Azure). It enables restaurants to manage table reservations and food orders, with modern DevOps and cloud deployment strategies integrated.
 
 ---
-## Link do site:
+## Website link:
 
 https://webapp-sabor-caseiro.azurewebsites.net
 
