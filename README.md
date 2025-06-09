@@ -195,7 +195,7 @@ git commit -m "feat: add new orders endpoint"
 
 ---
 
-## 🛡️ License
+## 🛡️ License.
 
 BSD 2-Clause License, Copyright (c) 2025, Rayra Lima
 
