@@ -14,7 +14,7 @@ https://webapp-sabor-caseiro.azurewebsites.net
 - Table reservation with date and time
 - Order management
 - Scalable backend using Node.js
-- Automatic CI/CD via GitHub Actions
+- Automatic CI/CD through GitHub Actions
 - Infrastructure as Code (IaC) using Terraform
 - Azure-ready deployment
 
