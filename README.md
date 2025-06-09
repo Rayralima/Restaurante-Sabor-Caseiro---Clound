@@ -40,7 +40,7 @@ https://webapp-sabor-caseiro.azurewebsites.net
 │   ├── img                     # Image assets
 │   ├── script                  # Front-end JavaScript files
 │   └── index.html              # Main HTML file for the web interface
-├── app.js                      # Express server
+├── app.js                      # An Express server
 ├── package.json                # Dependencies
 ├── Staging/                    # Infrastructure using Terraform
 │   ├── main.tf                 # Azure infrastructure definition
