@@ -143,7 +143,7 @@ terraform apply
 
 ### `GET /pedidos`
 
-- **Description:** Fetch all active orders.
+- **Description:** Fetch all active orders
 - **Response:**
 ```json
 [
