@@ -184,7 +184,7 @@ git commit -m "feat: add new orders endpoint"
 
 - Follow the existing code style in `app.js`
 - Always document new endpoints in the API section
-- Include basic testing where applicable
+- Include basic testing where applicable.
 
 ---
 
